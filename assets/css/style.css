@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+main{
+    text-align: center;
+    margin-top: 250px;
+}
+
+main h1{
+    font-size: 60;
+}
+
+main .container{
+    margin-top: 40px;
+}
+
+main .container button{
+    padding: 10 5;
+    background: rgb(89, 192, 89);
+    border: none;
+    border-radius: 6px;
+    font-size: 15;
+}
+
+main .container button:hover{
+    transition: 0.3s;
+    font-size: 17;
+}
