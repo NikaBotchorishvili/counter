@@ -4,6 +4,9 @@
     font-family: sans-serif;
 }
 
+body{
+    background: linear-gradient(45deg, #81B2A3, #6AA6A4 , #5899A1, #5597A0, #3B8EA5, #3887A0, #34809A, #317995);
+}
 main{
     text-align: center;
     margin-top: 250px;
